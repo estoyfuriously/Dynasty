@@ -1,0 +1,6 @@
+{
+  "name": "Dynasty: Land vs. Blood",
+  "description": "An educational web game on European dynastic succession, political alliances, land loss, and genetic inbreeding risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
